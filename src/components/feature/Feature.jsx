@@ -5,9 +5,9 @@ import './feature.css'
 const Feature = () => {
   return (
     <div>
-      Feature
+      feature
     </div>
   )
 }
 
-export default Feature
+export default Feature;
