@@ -18,6 +18,7 @@ const App = () => (
     <CTA />
     <Blog />
     <Footer />
+    <h1>Hello World</h1>
   </div>
 );
 
